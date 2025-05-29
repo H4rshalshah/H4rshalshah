@@ -27,7 +27,7 @@
 
     </td>
     <td valign="top" align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="550px"  Height="250px" alt="Coding GIF" />
+      <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="450px"  Height="350px" alt="Coding GIF" />
     </td>
   </tr>
 </table>
