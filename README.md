@@ -16,7 +16,7 @@
 <!-- Two-column layout: Bio & Coding GIF -->
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top" width="50%" style="padding-right: 30px;">
+    <td valign="top" width="50%" style="padding-right: 10px;">
 
 - 🔭 I’m currently working on **FRONTEND PROJECTS**  
 - 🌱 I’m currently learning **DSA , Python , AI/ML**  
@@ -27,7 +27,7 @@
 
     </td>
     <td valign="top" align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="450px"  Height="300px" alt="Coding GIF" />
+      <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="450px"  Height="280px" alt="Coding GIF" />
     </td>
   </tr>
 </table>
