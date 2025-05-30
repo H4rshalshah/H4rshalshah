@@ -64,7 +64,7 @@
 
 ---
 
-### 📊 GitHub Stats (Responsive Horizontal Layout)
+### 📊 GitHub Stats 
 
 <table align="center">
   <tr>
