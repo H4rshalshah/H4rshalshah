@@ -1,6 +1,9 @@
 name: 🐍 Generate Snake Contribution Graph
 
 on:
+  push:
+    branches:
+      - main  # Change this if your default branch is not 'main'
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight
   workflow_dispatch:
