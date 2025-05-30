@@ -64,11 +64,6 @@
 </p>
 
 ---
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-contribution-grid-snake-dark.svg" />
