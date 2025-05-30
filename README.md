@@ -27,7 +27,7 @@
 
     </td>
     <td align="center" style="vertical-align: top; width: 50%;">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGc5dWJrcWVlejBmNGdpczRxcmlvN3hiOWgwOHdweHNjbHVzdHNtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odTTszSU3M3pb5I9eW/giphy.gif" height="270px"  width="440px" alt="Coding GIF" />
+      <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" height="270px"  width="440px" alt="Coding GIF" />
     </td>
   </tr>
 </table>
