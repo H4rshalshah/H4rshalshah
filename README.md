@@ -52,9 +52,8 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
+<div style="display: flex; flex-direction: row; gap: 1rem;">
   <img src="https://github-readme-stats.vercel.app/api?username=H4rshalshah&theme=radical&show_icons=true&count_private=true&hide_border=true" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=H4rshalshah&theme=radical&hide_border=true" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4rshalshah&layout=compact&theme=radical&hide_border=true" height="200" />
-</p>
+</div>
