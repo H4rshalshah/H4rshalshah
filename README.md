@@ -11,24 +11,24 @@
   </a>
 </p>
 
+<!-- Two-column layout -->
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <ul>
-        <li>🔭 I’m currently working on <strong>FRONTEND PROJECTS</strong></li>
-        <li>🌱 I’m currently learning <strong>DSA, Python, AI/ML</strong></li>
-        <li>👯‍♂️ I’m looking to collaborate on <strong>AI/ML Projects</strong></li>
-        <li>💬 Ask me about <strong>HTML, CSS, C++, DSA</strong></li>
-        <li>📫 Reach me at <strong>nit.hs4603@gmail.com</strong></li>
-        <li>⚡ Fun fact: I treat LeetCode like a daily puzzle 🧩</li>
-      </ul>
+    <td style="vertical-align: top; width: 50%;">
+
+- 🔭 I’m currently working on **FRONTEND PROJECTS**  
+- 🌱 I’m currently learning **DSA, Python, AI/ML**  
+- 👯 I’m looking to collaborate on **AI/ML PROJECTS**  
+- 💬 Ask me about **HTML, CSS, C++, DSA**  
+- 📫 Reach me at **nit.hs4603@gmail.com**  
+- ⚡ Fun fact: **I treat LeetCode like a daily puzzle 🧩**
+
     </td>
-    <td align="center" width="50%">
-      <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" height="250px" />
+    <td align="center" style="vertical-align: top; width: 50%;">
+      <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" height="270px" width="440px" alt="Coding GIF" />
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🌐 Connect with me
