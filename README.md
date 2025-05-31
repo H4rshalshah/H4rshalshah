@@ -17,7 +17,7 @@
       <ul>
         <li>🔭 I’m currently working on <strong>FRONTEND PROJECTS</strong></li>
         <li>🌱 I’m currently learning <strong>DSA, Python, AI/ML</strong></li>
-        <li>👯 I’m looking to collaborate on <strong>AI/ML Projects</strong></li>
+        <li>👯‍♂️ I’m looking to collaborate on <strong>AI/ML Projects</strong></li>
         <li>💬 Ask me about <strong>HTML, CSS, C++, DSA</strong></li>
         <li>📫 Reach me at <strong>nit.hs4603@gmail.com</strong></li>
         <li>⚡ Fun fact: I treat LeetCode like a daily puzzle 🧩</li>
@@ -52,8 +52,17 @@
 ---
 
 ## 📊 GitHub Stats
-<div style="display: flex; flex-direction: row; gap: 1rem;">
-  <img src="https://github-readme-stats.vercel.app/api?username=H4rshalshah&theme=radical&show_icons=true&count_private=true&hide_border=true" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=H4rshalshah&theme=radical&hide_border=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4rshalshah&layout=compact&theme=radical&hide_border=true" height="200" />
-</div>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=H4rshalshah&theme=radical&show_icons=true&count_private=true&hide_border=true" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=H4rshalshah&theme=radical&hide_border=true" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4rshalshah&layout=compact&theme=radical&hide_border=true" height="200" />
+    </td>
+  </tr>
+</table>
