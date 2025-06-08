@@ -8,7 +8,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=H4rshalshah&theme=onestar&bg_color=000000&margin-w=15" />
   </a>
 </p>
-
 <!-- Two-column layout -->
 <table>
   <tr>
