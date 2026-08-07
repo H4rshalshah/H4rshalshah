@@ -335,12 +335,6 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:111E38,70:030712,100:0B0F19&height=160&section=footer&animation=twinkling" width="100%" alt="Footer"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=700&color=7DD3FC&center=true&vCenter=true&width=700&lines=BUILD+%E2%86%92+LEARN+%E2%86%92+OPTIMIZE+%E2%86%92+DEPLOY;%E2%9A%A1+KEEP+BUILDING.+KEEP+SOLVING." alt="Footer Animation"/>
-</div>
-
 <sub>Designed & built by Harshal Shah</sub>
 
 </div>
