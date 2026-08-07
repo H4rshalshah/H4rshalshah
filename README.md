@@ -27,8 +27,6 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4C89?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=H4rshalshah&style=for-the-badge&color=9C6ADE&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
@@ -77,7 +75,6 @@ My current interests are:
 
 </div>
 
-<br>
 
 <!-- ========================= PULSEOPS ========================= -->
 
@@ -240,8 +237,6 @@ My current interests are:
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=700&color=F8D49D&center=true&vCenter=true&width=850&lines=ARRAYS+%7C+STRINGS+%7C+TREES+%7C+GRAPHS;GREEDY+%7C+DP+%7C+RECURSION+%7C+BACKTRACKING;FOCUSING+ON+INTERVIEW-READY+PROBLEM+SOLVING" alt="DSA Animation"/>
 
-<br><br>
-
 <a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-F7B928?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
@@ -327,11 +322,9 @@ My current interests are:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151F,40:2A1F3D,70:17151F,100:0D1117&height=160&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=700&color=E7D7FF&center=true&vCenter=true&width=700&lines=BUILD+%E2%86%92+LEARN+%E2%86%92+OPTIMIZE+%E2%86%92+DEPLOY;%E2%9A%A1+KEEP+BUILDING.+KEEP+SOLVING." alt="Footer Animation"/>
 
-<br><br>
 
 <sub>Designed & built by Harshal Shah</sub>
 
