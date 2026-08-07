@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=HARSHAL%20SHAH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20BACKEND%20%E2%80%A2%20EDGE%20AI&descAlignY=60&descSize=18&animation=fadeIn&color=0:050505,45:111827,100:2563EB" width="100%" alt="Harshal Shah"/>
+<!-- ============================== HEADER ============================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=HARSHAL%20SHAH&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Architecting%20web%20apps%20%26%20solving%20problems%20%E2%9A%A1%20Full-stack%20developer%20%C2%B7%20DSA%20enthusiast&descAlignY=60&descSize=18&animation=fadeIn&color=0:17151F,50:241B35,100:111827" width="100%" alt="Harshal Shah"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=FULL-STACK+DEVELOPER;BACKEND+ENGINEER;BUILDING+SCALABLE+SYSTEMS;REAL-TIME+%26+DISTRIBUTED+APPLICATIONS;EDGE+AI+%26+IoT+ENTHUSIAST;BUILDING+%E2%86%92+TESTING+%E2%86%92+DEPLOYING" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=E5C7FF&center=true&vCenter=true&width=850&lines=BUILDING+SCALABLE+WEB+APPLICATIONS;DESIGNING+RELIABLE+BACKEND+SYSTEMS;SOLVING+DSA+PROBLEMS;EXPLORING+EDGE+AI+%26+SYSTEM+DESIGN;BUILD+%E2%86%92+LEARN+%E2%86%92+OPTIMIZE+%E2%86%92+DEPLOY" alt="Typing Animation"/>
 
 <br><br>
 
@@ -12,8 +14,8 @@
 <img src="https://img.shields.io/badge/GitHub-H4rshalshah-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="mailto:nit.hs4603@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:nit.hs4603@student.nitw.ac.in">
+<img src="https://img.shields.io/badge/Email-Contact-EA4C89?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/h4rshal/">
@@ -22,7 +24,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=H4rshalshah&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=H4rshalshah&style=for-the-badge&color=9C6ADE&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -30,127 +32,66 @@
 
 ---
 
-<h2 align="center">⚡ ABOUT ME</h2>
+<!-- ============================== ABOUT ============================== -->
+
+<h2 align="center">👋 ABOUT ME</h2>
 
 <div align="center">
 
-### FULL-STACK × BACKEND × DISTRIBUTED SYSTEMS × EDGE AI
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=800&color=F8D49D&center=true&vCenter=true&width=800&lines=COMPUTER+SCIENCE+%7C+SOFTWARE+ENGINEERING;FULL-STACK+%7C+BACKEND+%7C+DSA;INTERESTED+IN+SCALABLE+SYSTEMS+%26+EDGE+AI" alt="About Animation"/>
 
 </div>
 
 <br>
 
-I'm a Computer Science graduate student focused on building **scalable software systems, real-time applications, backend services, and intelligent edge solutions**.
+I enjoy building **real-world software products** with a strong focus on clean architecture, backend engineering, APIs, databases, real-time systems, and problem solving.
 
-I enjoy turning ideas into working products — from designing interfaces and APIs to implementing authentication, distributed processing, real-time communication, databases, and AI-powered applications.
-
-<br>
+My approach is simple:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=700&color=8B949E&center=true&vCenter=true&width=850&lines=DESIGN+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+DEPLOY;SCALABLE+BACKENDS;REAL-TIME+SYSTEMS;EDGE+INTELLIGENCE" alt="About Animation"/>
+### ✨ THINK → BUILD → DEBUG → OPTIMIZE → SHIP
 
 </div>
+
+<br>
+
+I'm particularly interested in:
+
+- 🧩 **Data Structures & Algorithms**
+- 🌐 **Full-Stack Web Development**
+- ⚙️ **Backend & API Engineering**
+- 🚀 **Distributed & Real-Time Systems**
+- 🤖 **Edge AI & Intelligent Applications**
+- 🏗️ **System Design**
 
 <br>
 
 ---
 
-<h2 align="center">🧠 WHAT I BUILD</h2>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-<h3>🌐</h3>
-
-<b>FULL-STACK</b>
-
-<br><br>
-
-React<br>
-Next.js<br>
-TypeScript<br>
-Tailwind CSS
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>⚙️</h3>
-
-<b>BACKEND</b>
-
-<br><br>
-
-Node.js<br>
-Express.js<br>
-FastAPI<br>
-REST APIs
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>🚀</h3>
-
-<b>DISTRIBUTED</b>
-
-<br><br>
-
-Redis<br>
-BullMQ<br>
-Socket.io<br>
-Docker
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>🤖</h3>
-
-<b>EDGE AI</b>
-
-<br><br>
-
-Machine Learning<br>
-TinyML<br>
-IoT<br>
-Edge Computing
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
+<!-- ============================== PROJECTS ============================== -->
 
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=BUILDING+REAL+WORLD+PROJECTS;DESIGNING+%E2%86%92+BUILDING+%E2%86%92+DEPLOYING;TURNING+IDEAS+INTO+PRODUCTS" alt="Projects Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=FFB86C&center=true&vCenter=true&width=700&lines=PROJECTS+%3E+WORDS;IDEA+%E2%86%92+ARCHITECTURE+%E2%86%92+CODE+%E2%86%92+PRODUCT;BUILDING+THINGS+THAT+ACTUALLY+WORK" alt="Projects Animation"/>
 
 </div>
 
 <br>
 
-<div align="center">
+<!-- ============================== PULSEOPS ============================== -->
 
-<h2>
+<h2 align="center">
+
 <a href="https://github.com/H4rshalshah/PulseOps">
 🚨 PulseOps
 </a>
+
 </h2>
+
+<div align="center">
 
 <b>Automated Incident Response Platform</b>
 
@@ -160,7 +101,7 @@ Edge Computing
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=black"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/BullMQ-EF4444?style=flat-square"/>
@@ -171,32 +112,22 @@ Edge Computing
 
 <br>
 
-> Real-time incident response platform for monitoring, alert processing, incident automation, and analytics.
+PulseOps is a real-time incident response platform designed around **monitoring, alert processing, background jobs, real-time communication, and incident analytics**.
 
-### Key Features
+### ⚡ Highlights
 
-- Integrated **4+ monitoring tools**
-- Webhook-based distributed alert processing
-- Asynchronous workflows using **Redis + BullMQ**
-- Real-time incident tracking using **Socket.io**
-- Docker-based containerization
-- Incident analytics and MTTR dashboards
+- 🔌 Integrated **4+ monitoring tools**
+- ⚡ Webhook-based alert processing
+- 🔄 Distributed background jobs using **Redis + BullMQ**
+- 📡 Real-time updates using **Socket.io**
+- 🐳 Dockerized services
+- 📊 Incident analytics and MTTR tracking
 
 <br>
 
 <div align="center">
 
-MONITORING
-&nbsp; → &nbsp;
-WEBHOOKS
-&nbsp; → &nbsp;
-REDIS + BULLMQ
-&nbsp; → &nbsp;
-INCIDENT ENGINE
-&nbsp; → &nbsp;
-SOCKET.IO
-&nbsp; → &nbsp;
-ANALYTICS
+`MONITORING` → `WEBHOOKS` → `REDIS` → `BULLMQ` → `INCIDENT ENGINE` → `SOCKET.IO` → `ANALYTICS`
 
 </div>
 
@@ -204,22 +135,26 @@ ANALYTICS
 
 ---
 
-<div align="center">
+<!-- ============================== DRIFTBOARD ============================== -->
 
-<h2>
+<h2 align="center">
+
 <a href="https://github.com/H4rshalshah/DriftBoard">
 ⚡ DriftBoard
 </a>
+
 </h2>
 
-<b>AI-Powered API Monitoring & Drift Detection SaaS</b>
+<div align="center">
+
+<b>Live API Contract Drift Detector</b>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=black"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
@@ -229,35 +164,25 @@ ANALYTICS
 
 <br>
 
-> SaaS platform for API monitoring, drift detection, testing, collaboration, and real-time alert management.
+DriftBoard is a SaaS platform for monitoring APIs, detecting **schema changes and contract drift**, visualizing differences, and managing drift events.
 
-### Key Features
+### ⚡ Highlights
 
-- JWT authentication
-- Role-Based Access Control
-- **20+ REST APIs**
-- Workspace and user-management services
-- Task and notification services
-- Real-time synchronization with Socket.io
-- MongoDB query optimization
-- Reduced response time by **35%**
+- 🔍 API response schema monitoring
+- 📊 Visual schema differences
+- 🕒 Drift event timeline
+- 🔔 Slack / Email alert workflows
+- 🔐 JWT authentication
+- 🛡️ Role-Based Access Control
+- 🔌 **20+ REST APIs**
+- ⚡ Real-time synchronization
+- 📈 Backend performance optimization
 
 <br>
 
 <div align="center">
 
-CLIENT
-&nbsp; → &nbsp;
-REST API
-&nbsp; → &nbsp;
-NODE / EXPRESS
-&nbsp; → &nbsp;
-MONGODB
-
-<br><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-↕ SOCKET.IO ↕
+`API` → `MONITOR` → `COMPARE` → `DETECT DRIFT` → `ALERT` → `TRACK HISTORY`
 
 </div>
 
@@ -265,13 +190,17 @@ MONGODB
 
 ---
 
-<div align="center">
+<!-- ============================== TEAMSYNC ============================== -->
 
-<h2>
+<h2 align="center">
+
 <a href="https://github.com/H4rshalshah/TeamSync">
 📋 TeamSync
 </a>
+
 </h2>
+
+<div align="center">
 
 <b>Collaborative Project Management Platform</b>
 
@@ -281,35 +210,29 @@ MONGODB
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square"/>
+<img src="https://img.shields.io/badge/Authentication-9C6ADE?style=flat-square"/>
 
 </div>
 
 <br>
 
-> Collaborative workspace and project management platform designed for organizing tasks, teams, and project workflows.
+TeamSync is a collaborative project management platform designed around **workspaces, teams, tasks, permissions, and project workflows**.
 
-### Key Features
+### ⚡ Highlights
 
-- Collaborative workspace management
-- Task management
-- **15+ reusable React components**
-- REST API integration
-- Optimized frontend state management
-- Responsive cross-device interface
+- 👥 Workspace management
+- 🔐 Authentication and permissions
+- 📋 Task management
+- 🧩 **15+ reusable React components**
+- 🔌 REST API integration
+- ⚡ Optimized frontend state management
+- 📱 Responsive UI
 
 <br>
 
 <div align="center">
 
-TEAM
-&nbsp; → &nbsp;
-WORKSPACE
-&nbsp; → &nbsp;
-PROJECTS
-&nbsp; → &nbsp;
-TASKS
-&nbsp; → &nbsp;
-PROGRESS
+`TEAM` → `WORKSPACE` → `PROJECT` → `TASK` → `PROGRESS`
 
 </div>
 
@@ -317,70 +240,77 @@ PROGRESS
 
 ---
 
-<div align="center">
+<!-- ============================== CODESENSAI ============================== -->
 
-<h2>
+<h2 align="center">
+
 <a href="https://github.com/H4rshalshah/CodeSensai-AI">
 🤖 CodeSensai AI
 </a>
+
 </h2>
+
+<div align="center">
 
 <b>AI-Powered Code Analysis Platform</b>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI-Code%20Analysis-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Code%20Optimization-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Developer%20Tools-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Code_Analysis-FF7A59?style=flat-square"/>
+<img src="https://img.shields.io/badge/Optimization-00B8D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Developer_Tool-EC4899?style=flat-square"/>
 
 </div>
 
 <br>
 
-> AI-based code analysis application designed to detect bugs, optimize logic, and provide cleaner code suggestions.
+CodeSensai AI focuses on helping developers analyze code, identify issues, understand logic, and improve implementation quality using AI-assisted workflows.
 
-### Key Features
+### ⚡ Highlights
 
-- AI-assisted code analysis
-- Bug detection
-- Logic optimization
-- Clean-code suggestions
-- Developer-focused workflow
+- 🤖 AI-assisted code analysis
+- 🐛 Bug detection
+- 🧠 Logic analysis
+- ⚡ Code optimization
+- ✨ Clean-code suggestions
+- 👨‍💻 Developer-focused workflow
 
 <br>
 
 ---
 
-<h2 align="center">💻 TECH STACK</h2>
+<!-- ============================== TECH STACK ============================== -->
+
+<h2 align="center">🛠️ TECHNOLOGIES I USE</h2>
 
 <div align="center">
 
-<h3>🧑‍💻 Languages</h3>
+<h3>💻 Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css&perline=7" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,html,css&perline=7" alt="Languages"/>
 
 <br><br>
 
 <h3>🎨 Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=6" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=6" alt="Frontend"/>
 
 <br><br>
 
 <h3>⚙️ Backend & Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,redis&perline=6" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,redis&perline=6" alt="Backend"/>
 
 <br><br>
 
-<h3>☁️ Cloud & DevOps</h3>
+<h3>☁️ DevOps & Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,postman,vscode&perline=7" alt="Cloud and DevOps"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,postman,vscode&perline=7" alt="DevOps"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2300&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=C%2B%2B+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+%E2%80%A2+Vite;Node.js+%E2%80%A2+Express+%E2%80%A2+FastAPI+%E2%80%A2+MongoDB+%E2%80%A2+Redis;Docker+%E2%80%A2+AWS+%E2%80%A2+Vercel+%E2%80%A2+Git+%E2%80%A2+GitHub" alt="Tech Stack Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=700&color=F8D49D&center=true&vCenter=true&width=850&lines=C%2B%2B+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript;React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+%E2%80%A2+Vite;Node.js+%E2%80%A2+Express+%E2%80%A2+FastAPI+%E2%80%A2+MongoDB+%E2%80%A2+Redis;Docker+%E2%80%A2+AWS+%E2%80%A2+Vercel+%E2%80%A2+Git+%E2%80%A2+GitHub" alt="Technology Animation"/>
 
 </div>
 
@@ -388,74 +318,23 @@ PROGRESS
 
 ---
 
-<h2 align="center">⚙️ ENGINEERING SKILLS</h2>
+<!-- ============================== ENGINEERING ============================== -->
 
-<br>
+<h2 align="center">⚙️ ENGINEERING FOCUS</h2>
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-<h3>🔐</h3>
-
-<b>SECURITY</b>
+<img src="https://img.shields.io/badge/REST_APIs-FF7A59?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Authentication-9C6ADE?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Real--Time-00B8D9?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis_Queues-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 <br><br>
 
-JWT<br>
-RBAC<br>
-API Security
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>⚡</h3>
-
-<b>REAL-TIME</b>
-
-<br><br>
-
-Socket.io<br>
-WebSockets<br>
-Live Sync
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>🚀</h3>
-
-<b>BACKEND</b>
-
-<br><br>
-
-REST APIs<br>
-Background Jobs<br>
-Redis Queues
-
-</td>
-
-<td align="center" width="25%">
-
-<h3>🐳</h3>
-
-<b>DEVOPS</b>
-
-<br><br>
-
-Docker<br>
-AWS<br>
-Vercel<br>
-GitHub
-
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Distributed_Systems-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Security-7C3AED?style=for-the-badge"/>
 
 </div>
 
@@ -463,23 +342,51 @@ GitHub
 
 ---
 
-<h2 align="center">🧩 PROBLEM SOLVING</h2>
+<!-- ============================== DSA ============================== -->
+
+<h2 align="center">🧩 DATA STRUCTURES & PROBLEM SOLVING</h2>
 
 <div align="center">
 
-<a href="https://leetcode.com/u/H4rshal/">
-<img src="https://img.shields.io/badge/LeetCode-255%2B-F7B928?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=700&color=FFB86C&center=true&vCenter=true&width=800&lines=SOLVING+PROBLEMS+ONE+ALGORITHM+AT+A+TIME;ARRAYS+%7C+STRINGS+%7C+TREES+%7C+GRAPHS;GREEDY+%7C+DP+%7C+RECURSION+%7C+BACKTRACKING;FOCUSING+ON+INTERVIEW+READY+PROBLEM+SOLVING" alt="DSA Animation"/>
+
+<br><br>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-F7B928?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/itz_harsh047/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-300%2B-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
 </a>
 
-<img src="https://img.shields.io/badge/Coding%20Score-900%2B-7C3AED?style=for-the-badge" alt="Coding Score"/>
+</div>
+
+<br>
+
+---
+
+<!-- ============================== 3D GITHUB ============================== -->
+
+<h2 align="center">🌌 GITHUB UNIVERSE</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=700&color=E5C7FF&center=true&vCenter=true&width=700&lines=CODE+%E2%80%A2+CONTRIBUTIONS+%E2%80%A2+CONSISTENCY;KEEPING+THE+GRAPH+ALIVE+%F0%9F%94%A5" alt="GitHub Animation"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=700&color=8B949E&center=true&vCenter=true&width=750&lines=DATA+STRUCTURES+%26+ALGORITHMS;OBJECT+ORIENTED+PROGRAMMING;DATABASES+%26+OPERATING+SYSTEMS;COMPUTER+NETWORKS" alt="DSA Animation"/>
+<img src="https://streak-stats.demolab.com?user=H4rshalshah&theme=dark&hide_border=true&background=0D1117&ring=E5C7FF&fire=FF7A59&currStreakLabel=F8D49D&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%" alt="GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=H4rshalshah&bg_color=0D1117&color=E5C7FF&line=FF7A59&point=FFFFFF&area=true&hide_border=true&radius=10&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" alt="GitHub Contribution Graph"/>
+
+<br><br>
+
+<!-- 3D CONTRIBUTION VISUAL -->
+
+<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub Contribution Visualization"/>
 
 </div>
 
@@ -487,19 +394,21 @@ GitHub
 
 ---
 
-<h2 align="center">📊 GITHUB ACTIVITY</h2>
+<!-- ============================== CURRENT FOCUS ============================== -->
+
+<h2 align="center">🎯 CURRENTLY FOCUSING ON</h2>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=H4rshalshah&theme=dark&hide_border=true&border_radius=12&background=0D1117&ring=58A6FF&fire=F97316&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" alt="GitHub Streak"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=750&color=FFB86C&center=true&vCenter=true&width=850&lines=ADVANCED+DSA;BACKEND+ENGINEERING;SYSTEM+DESIGN;DISTRIBUTED+SYSTEMS;EDGE+AI+%26+IoT;BUILDING+PRODUCTION-READY+APPLICATIONS" alt="Current Focus Animation"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=H4rshalshah&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true&radius=12&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" alt="GitHub Contribution Activity"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=H4rshalshah&theme=github_dark" width="95%" alt="GitHub Profile Summary"/>
+<img src="https://img.shields.io/badge/DSA-F7B928?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-00B8D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-9C6ADE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Edge_AI-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-FF7A59?style=for-the-badge"/>
 
 </div>
 
@@ -507,79 +416,13 @@ GitHub
 
 ---
 
-<h2 align="center">🎯 CURRENT FOCUS</h2>
+<!-- ============================== CONNECT ============================== -->
+
+<h2 align="center">🌐 LET'S CONNECT</h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2700&pause=750&color=58A6FF&center=true&vCenter=true&width=800&lines=ADVANCED+DATA+STRUCTURES+%26+ALGORITHMS;BACKEND+ENGINEERING;SYSTEM+DESIGN;DISTRIBUTED+SYSTEMS;EDGE+AI;IoT+%26+TINYML;PRODUCTION-GRADE+APPLICATIONS" alt="Current Focus Animation"/>
-
-<br><br>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-<h2>⚙️</h2>
-
-<b>BACKEND</b>
-
-<br><br>
-
-Scalable APIs
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🌐</h2>
-
-<b>DISTRIBUTED</b>
-
-<br><br>
-
-Real-Time Systems
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🤖</h2>
-
-<b>EDGE AI</b>
-
-<br><br>
-
-Low-Latency AI
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🧠</h2>
-
-<b>SYSTEM DESIGN</b>
-
-<br><br>
-
-Architecture
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
----
-
-<h2 align="center">🌐 CONNECT WITH ME</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=LET'S+BUILD+SOMETHING+USEFUL;OPEN+TO+COLLABORATION;ALWAYS+LEARNING%2C+ALWAYS+BUILDING" alt="Connect Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=800&color=E5C7FF&center=true&vCenter=true&width=750&lines=OPEN+TO+COLLABORATION;ALWAYS+LEARNING+%E2%80%A2+ALWAYS+BUILDING;LET'S+CREATE+SOMETHING+USEFUL" alt="Connect Animation"/>
 
 <br><br>
 
@@ -587,17 +430,17 @@ Architecture
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="mailto:nit.hs4603@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
 <a href="https://www.linkedin.com/in/h4rshal/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+<a href="mailto:nit.hs4603@student.nitw.ac.in">
+<img src="https://img.shields.io/badge/Email-Say_Hi-EA4C89?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=H4rshalshah&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=H4rshalshah&style=flat-square&color=9C6ADE&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -605,13 +448,15 @@ Architecture
 
 ---
 
+<!-- ============================== FOOTER ============================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,45:111827,100:2563EB" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:17151F,50:241B35,100:111827" width="100%" alt="Footer"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=BUILD+%E2%86%92+MEASURE+%E2%86%92+OPTIMIZE+%E2%86%92+DEPLOY;CODE+IS+THE+START%2C+SYSTEMS+ARE+THE+GOAL" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2400&pause=700&color=F8D49D&center=true&vCenter=true&width=750&lines=BUILD+%E2%86%92+MEASURE+%E2%86%92+OPTIMIZE+%E2%86%92+DEPLOY;KEEP+LEARNING.+KEEP+BUILDING.+%E2%9A%A1" alt="Footer Animation"/>
 
 <br><br>
 
