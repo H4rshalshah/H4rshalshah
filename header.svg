@@ -15,7 +15,7 @@
         animation: wave 2.4s ease-in-out infinite;
       }
 
-      /* Staggered delay for each letter to create a continuous wave effect */
+      /* Staggered delays create a continuous, smooth character wave */
       .c1  { animation-delay: 0.0s; }
       .c2  { animation-delay: 0.1s; }
       .c3  { animation-delay: 0.2s; }
@@ -41,10 +41,10 @@
     </style>
   </defs>
 
-  <!-- Background Layer -->
+  <!-- Background Card -->
   <rect width="100%" height="100%" rx="12" class="bg" />
 
-  <!-- Animated Wave Header -->
+  <!-- Smooth Animated Wave Header -->
   <g transform="translate(425, 125)">
     <text text-anchor="middle" dominant-baseline="middle">
       <tspan class="char c1" x="-280">H</tspan>
