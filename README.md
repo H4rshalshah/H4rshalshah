@@ -10,26 +10,50 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/BUILD-0B0F19?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/LEARN-1E293B?style=for-the-badge&logo=bookstack&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/OPTIMIZE-0284C7?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/DEPLOY-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/>
+<!-- Borderless Evenly Spaced Status Badges -->
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/BUILD-0B0F19?style=for-the-badge&logo=github&logoColor=FFFFFF"/></td>
+    <td style="width: 15px;"></td>
+    <td align="center"><img src="https://img.shields.io/badge/LEARN-0B0F19?style=for-the-badge&logo=bookstack&logoColor=FFFFFF"/></td>
+    <td style="width: 15px;"></td>
+    <td align="center"><img src="https://img.shields.io/badge/OPTIMIZE-0B0F19?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/></td>
+    <td style="width: 15px;"></td>
+    <td align="center"><img src="https://img.shields.io/badge/DEPLOY-0B0F19?style=for-the-badge&logo=vercel&logoColor=black"/></td>
+  </tr>
+</table>
 
 <br>
 <br>
-<a href="https://github.com/H4rshalshah">
-<img src="https://img.shields.io/badge/GitHub-H4rshalshah-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-<a href="https://www.linkedin.com/in/h4rshal/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:nit.hs4603@student.nitw.ac.in">
-<img src="https://img.shields.io/badge/Email-Contact-0284C7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=H4rshalshah&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- Borderless Evenly Spaced Header Link Buttons in Dark Black -->
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/H4rshalshah" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+    <td style="width: 15px;"></td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/h4rshal/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td style="width: 15px;"></td>
+    <td align="center">
+      <a href="mailto:nit.hs4603@gmail.com">
+        <img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+    <td style="width: 15px;"></td>
+    <td align="center">
+      <a href="https://github.com/H4rshalshah">
+        <img src="https://komarev.com/ghpvc/?username=H4rshalshah&style=for-the-badge&color=0B0F19&label=VIEWS" alt="Profile Views"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -77,7 +101,7 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 
 <div align="center">
 
-### <a href="https://github.com/H4rshalshah/PulseOps">🚨 PulseOps</a>
+### [🚨 PulseOps](https://github.com/H4rshalshah/PulseOps)
 
 **Automated Incident Response Platform**
 
@@ -104,7 +128,7 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 
 <div align="center">
 
-### <a href="https://github.com/H4rshalshah/DriftBoard">⚡ DriftBoard</a>
+### [⚡ DriftBoard](https://github.com/H4rshalshah/DriftBoard)
 
 **Live API Contract Drift Detector**
 
@@ -129,7 +153,7 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 
 <div align="center">
 
-### <a href="https://github.com/H4rshalshah/TeamSync">📋 TeamSync</a>
+### [📋 TeamSync](https://github.com/H4rshalshah/TeamSync)
 
 **Collaborative Project Management Platform**
 
@@ -153,7 +177,7 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 
 <div align="center">
 
-### <a href="https://github.com/H4rshalshah/CodeSensai-AI">🤖 CodeSensai AI</a>
+### [🤖 CodeSensai AI](https://github.com/H4rshalshah/CodeSensai-AI)
 
 **AI-Powered Code Analysis Platform**
 
@@ -234,11 +258,11 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 <br>
 
 <div align="center">
-<a href="https://leetcode.com/u/H4rshal/">
+<a href="https://leetcode.com/u/H4rshal/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-F7B928?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/user/itz_harsh047/">
+<a href="https://www.geeksforgeeks.org/user/itz_harsh047/" target="_blank">
 <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 </div>
@@ -301,16 +325,16 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 
 <div align="center">
 
-<a href="https://github.com/H4rshalshah">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/H4rshalshah" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-<a href="https://www.linkedin.com/in/h4rshal/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/h4rshal/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-<a href="mailto:nit.hs4603@student.nitw.ac.in">
-<img src="https://img.shields.io/badge/Email-Say_Hi-0284C7?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;&nbsp;
+<a href="mailto:nit.hs4603@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hi-EA4C89?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br><br>
