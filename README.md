@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/OPTIMIZE-9C6ADE?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/DEPLOY-FF8A65?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/H4rshalshah">
 <img src="https://img.shields.io/badge/GitHub-H4rshalshah-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -264,15 +264,9 @@ My current interests are:
 
 <img src="https://streak-stats.demolab.com?user=H4rshalshah&theme=dark&hide_border=true&background=0D1117&ring=9C6ADE&fire=FF8A65&currStreakLabel=E7D7FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="78%" alt="GitHub Streak"/>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=H4rshalshah&bg_color=0D1117&color=E7D7FF&line=9C6ADE&point=FF8A65&area=true&hide_border=true&radius=8&custom_title=CONTRIBUTION%20ACTIVITY" width="92%" alt="GitHub Activity Graph"/>
-
-<br><br>
-
-<!-- 3D CONTRIBUTION VISUAL -->
-
-<img src="https://github-profile-3d-contrib.vercel.app/profile-night-rainbow.svg?username=H4rshalshah" width="92%" alt="3D GitHub Contributions"/>
 
 </div>
 
@@ -288,7 +282,7 @@ My current interests are:
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=750&color=E7D7FF&center=true&vCenter=true&width=800&lines=ADVANCED+DSA;BACKEND+ENGINEERING;SYSTEM+DESIGN;DISTRIBUTED+SYSTEMS;EDGE+AI+%26+IoT;PRODUCTION-READY+APPLICATIONS" alt="Focus Animation"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/DSA-F7B928?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend-00B8D9?style=for-the-badge"/>
