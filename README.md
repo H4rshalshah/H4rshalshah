@@ -262,12 +262,6 @@ My current interests are:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=H4rshalshah&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E7D7FF&text_color=FFFFFF&icon_color=FF8A65&ring_color=9C6ADE" width="48%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4rshalshah&layout=compact&hide_border=true&bg_color=0D1117&title_color=E7D7FF&text_color=FFFFFF&icon_color=FF8A65" width="38%" alt="Top Languages"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=H4rshalshah&theme=dark&hide_border=true&background=0D1117&ring=9C6ADE&fire=FF8A65&currStreakLabel=E7D7FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="78%" alt="GitHub Streak"/>
 
 <br><br>
