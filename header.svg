@@ -12,13 +12,31 @@
         font-size: 50px;
         font-weight: 800;
         fill: #FFFFFF;
-        cursor: pointer;
-        transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1), fill 0.25s ease;
+        animation: wave 2.4s ease-in-out infinite;
       }
 
-      .char:hover {
-        transform: translateY(-16px) scale(1.2);
-        fill: #38BDF8;
+      /* Staggered delay for each letter to create a continuous wave effect */
+      .c1  { animation-delay: 0.0s; }
+      .c2  { animation-delay: 0.1s; }
+      .c3  { animation-delay: 0.2s; }
+      .c4  { animation-delay: 0.3s; }
+      .c5  { animation-delay: 0.4s; }
+      .c6  { animation-delay: 0.5s; }
+      .c7  { animation-delay: 0.6s; }
+      .c8  { animation-delay: 0.8s; }
+      .c9  { animation-delay: 0.9s; }
+      .c10 { animation-delay: 1.0s; }
+      .c11 { animation-delay: 1.1s; }
+
+      @keyframes wave {
+        0%, 100% {
+          transform: translateY(0);
+          fill: #FFFFFF;
+        }
+        50% {
+          transform: translateY(-16px);
+          fill: #38BDF8;
+        }
       }
     </style>
   </defs>
@@ -26,20 +44,20 @@
   <!-- Background Layer -->
   <rect width="100%" height="100%" rx="12" class="bg" />
 
-  <!-- Hover Interactive Title with Fixed Character Spacing -->
+  <!-- Animated Wave Header -->
   <g transform="translate(425, 125)">
     <text text-anchor="middle" dominant-baseline="middle">
-      <tspan class="char" x="-280">H</tspan>
-      <tspan class="char" x="-235">A</tspan>
-      <tspan class="char" x="-190">R</tspan>
-      <tspan class="char" x="-145">S</tspan>
-      <tspan class="char" x="-100">H</tspan>
-      <tspan class="char" x="-55">A</tspan>
-      <tspan class="char" x="-10">L</tspan>
-      <tspan class="char" x="40">S</tspan>
-      <tspan class="char" x="85">H</tspan>
-      <tspan class="char" x="130">A</tspan>
-      <tspan class="char" x="175">H</tspan>
+      <tspan class="char c1" x="-280">H</tspan>
+      <tspan class="char c2" x="-235">A</tspan>
+      <tspan class="char c3" x="-190">R</tspan>
+      <tspan class="char c4" x="-145">S</tspan>
+      <tspan class="char c5" x="-100">H</tspan>
+      <tspan class="char c6" x="-55">A</tspan>
+      <tspan class="char c7" x="-10">L</tspan>
+      <tspan class="char c8" x="40">S</tspan>
+      <tspan class="char c9" x="85">H</tspan>
+      <tspan class="char c10" x="130">A</tspan>
+      <tspan class="char c11" x="175">H</tspan>
     </text>
   </g>
 </svg>
