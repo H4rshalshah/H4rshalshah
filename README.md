@@ -10,50 +10,34 @@
 
 <br>
 
-<!-- Borderless Evenly Spaced Status Badges -->
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/BUILD-0B0F19?style=for-the-badge&logo=github&logoColor=FFFFFF"/></td>
-    <td style="width: 15px;"></td>
-    <td align="center"><img src="https://img.shields.io/badge/LEARN-0B0F19?style=for-the-badge&logo=bookstack&logoColor=FFFFFF"/></td>
-    <td style="width: 15px;"></td>
-    <td align="center"><img src="https://img.shields.io/badge/OPTIMIZE-0B0F19?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/></td>
-    <td style="width: 15px;"></td>
-    <td align="center"><img src="https://img.shields.io/badge/DEPLOY-0B0F19?style=for-the-badge&logo=vercel&logoColor=black"/></td>
-  </tr>
-</table>
+<!-- Status Badges -->
+<img src="https://img.shields.io/badge/BUILD-0B0F19?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LEARN-0B0F19?style=for-the-badge&logo=bookstack&logoColor=FFFFFF"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OPTIMIZE-0B0F19?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DEPLOY-0B0F19?style=for-the-badge&logo=vercel&logoColor=black"/>
 
 <br>
 <br>
 
-<!-- Borderless Evenly Spaced Header Link Buttons in Dark Black -->
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/H4rshalshah" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
-    </td>
-    <td style="width: 15px;"></td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/h4rshal/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td style="width: 15px;"></td>
-    <td align="center">
-      <a href="mailto:nit.hs4603@gmail.com">
-        <img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-    </td>
-    <td style="width: 15px;"></td>
-    <td align="center">
-      <a href="https://github.com/H4rshalshah">
-        <img src="https://komarev.com/ghpvc/?username=H4rshalshah&style=for-the-badge&color=0B0F19&label=VIEWS" alt="Profile Views"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Header Link Buttons & Fixed Views Counter -->
+<a href="https://github.com/H4rshalshah" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/h4rshal/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:nit.hs4603@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/H4rshalshah">
+  <img src="https://komarev.com/ghpvc/?username=H4rshalshah&style=for-the-badge&color=0B0F19&abg=0B0F19&label=VIEWS" alt="Profile Views"/>
+</a>
 
 </div>
 
