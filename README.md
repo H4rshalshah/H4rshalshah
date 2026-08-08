@@ -257,14 +257,7 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 
 <!-- ========================= GITHUB STATS & STREAK ========================= -->
 
-<h2 align="center">📊 GITHUB STATS & CONTRIBUTIONS</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H4rshalshah&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Harshal's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4rshalshah&theme=dark&hide_border=true" alt="Harshal's GitHub Streak" />
-</div>
-
-<br><br>
 
 <div align="center">
   <!-- Contribution Snake Animation -->
