@@ -255,12 +255,6 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 
 ---
 <!-- ========================= GITHUB ========================= -->
-<h2 align="center"> 🌌 GITHUB ACTIVITY </h2>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=H4rshalshah&theme=dark&hide_border=true&background=030712&ring=38BDF8&fire=0284C7&currStreakLabel=7DD3FC&sideLabels=FFFFFF&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="78%" alt="GitHub Streak" />
-  <br>
-  <br>
-  
   <!-- Contribution Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-contribution-grid-snake-dark.svg">
