@@ -252,7 +252,7 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 </div>
 
 <br>
-
+---
 
 <!-- ========================= GITHUB ========================= -->
   <!-- Contribution Snake Animation -->
@@ -265,7 +265,7 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 
 <br>
 
-
+---
 
 <!-- ========================= CURRENT FOCUS ========================= -->
 
