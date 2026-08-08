@@ -254,28 +254,19 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 <br>
 
 ---
-
 <!-- ========================= GITHUB ========================= -->
-
-<h2 align="center">🌌 GITHUB ACTIVITY</h2>
-
+<h2 align="center"> 🌌 GITHUB ACTIVITY </h2>
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=H4rshalshah&theme=dark&hide_border=true&background=030712&ring=38BDF8&fire=0284C7&currStreakLabel=7DD3FC&sideLabels=FFFFFF&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="78%" alt="GitHub Streak"/>
-
-<br><br>
-
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=H4rshalshah&bg_color=030712&color=7DD3FC&line=38BDF8&point=0284C7&area=true&hide_border=true&radius=8&custom_title=CONTRIBUTION%20ACTIVITY" width="92%" alt="GitHub Activity Graph"/>
-
+  <img src="https://streak-stats.demolab.com?user=H4rshalshah&theme=dark&hide_border=true&background=030712&ring=38BDF8&fire=0284C7&currStreakLabel=7DD3FC&sideLabels=FFFFFF&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="78%" alt="GitHub Streak" />
+  <br>
+  <br>
+  
+  <!-- Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br>
