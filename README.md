@@ -214,7 +214,7 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 <div align="center">
 
 <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Real--Time-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Real--Time-06B6D4?style=for-for-the-badge"/>
 <img src="https://img.shields.io/badge/Redis_Queues-DC382D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/API_Security-3B82F6?style=for-the-badge"/>
 
@@ -252,14 +252,26 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 </div>
 
 <br>
+
 ---
 
-<!-- ========================= GITHUB ========================= -->
+<!-- ========================= GITHUB STATS & STREAK ========================= -->
+
+<h2 align="center">📊 GITHUB STATS & CONTRIBUTIONS</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=H4rshalshah&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Harshal's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4rshalshah&theme=dark&hide_border=true" alt="Harshal's GitHub Streak" />
+</div>
+
+<br><br>
+
+<div align="center">
   <!-- Contribution Snake Animation -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-snake.svg">
   </picture>
 </div>
 
