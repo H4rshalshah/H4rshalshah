@@ -259,16 +259,16 @@ I am a passionate software engineer and full-stack developer based in Warangal, 
 
 
 
-<div align="center">
+<!-- <div align="center"> -->
   <!-- Contribution Snake Animation -->
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/H4rshalshah/H4rshalshah/output/github-snake.svg">
   </picture>
 </div>
 
-<br>
+<br> -->
 
 ---
 
