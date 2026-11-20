@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,45:111E38,75:0B0F19,100:030712&height=230&section=header&text=HARSHAL%20SHAH&fontSize=58&fontColor=FFFFFF&fontAlignY=42&animation=twinkling" width="100%" alt="Harshal Shah Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-stack+developer+%C2%B7+MCA+%40+NIT+Warangal;Real-time+web+apps+and+backend+systems;Research+intern+in+Edge+AI+%26+object+detection;400%2B+LeetCode+problems+solved" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-stack+developer+%C2%B7+MCA+%40+NIT+Warangal;Real-time+web+apps+and+backend+systems;Research+intern+in+Edge+AI+%26+object+detection;800%2B+LeetCode+problems+solved" alt="Typing Animation"/>
 
 <br><br>
 
@@ -30,7 +30,7 @@
 
 <h2 align="center">👋 About Me</h2>
 
-<<p align="center">
+<p align="center">
 I'm Harshal, an MCA student at NIT Warangal who builds full-stack apps and spends most of his time on the backend. My favorite bugs are the quiet ones, like an API that still returns 200 while a field changes type underneath it. That's exactly what DriftBoard was built to catch. I work mostly with React, Node.js, Express and MongoDB, and I like adding real-time features with Socket.io wherever they make a product feel better. These days I'm building an AI interview platform with RAG and LangGraph, and I also do research at NIT Warangal's IoT & Edge AI Lab, where I test how well object detection holds up in fog, rain, snow and sand. When I'm not building, I'm usually grinding DSA problems.
 </p>
 
@@ -180,10 +180,10 @@ Reproduced an IEEE study on object detection and tested it in four adverse condi
 
 <div align="center">
 
-<p>400+ problems on LeetCode, 350+ on GeeksforGeeks, and a GfG coding score above 1100.</p>
+<p>800+ problems on LeetCode, 350+ on GeeksforGeeks, and a GfG coding score above 1100.</p>
 
-<a href="https://leetcode.com/u/H4rshal/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-400+_solved-F7B928?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/cxhef/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-800+_solved-F7B928?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/user/itz_harsh047/" target="_blank">
