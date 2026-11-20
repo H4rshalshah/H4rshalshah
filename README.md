@@ -30,8 +30,8 @@
 
 <h2 align="center">👋 About Me</h2>
 
-<p align="center">
-I'm a second-year MCA student at NIT Warangal (CGPA 7.49) and a full-stack developer who likes the backend side of things most. I build with React, Node.js, Express and MongoDB, and I care about real-time features, API security and keeping systems easy to debug. Right now I'm also a research intern at the IoT & Edge AI Research Lab at NIT Warangal, where I work on object detection in bad weather. Outside of projects I practice DSA, with 400+ problems solved on LeetCode and 350+ on GeeksforGeeks.
+<<p align="center">
+I'm Harshal, an MCA student at NIT Warangal who builds full-stack apps and spends most of his time on the backend. My favorite bugs are the quiet ones, like an API that still returns 200 while a field changes type underneath it. That's exactly what DriftBoard was built to catch. I work mostly with React, Node.js, Express and MongoDB, and I like adding real-time features with Socket.io wherever they make a product feel better. These days I'm building an AI interview platform with RAG and LangGraph, and I also do research at NIT Warangal's IoT & Edge AI Lab, where I test how well object detection holds up in fog, rain, snow and sand. When I'm not building, I'm usually grinding DSA problems.
 </p>
 
 <div align="center">
